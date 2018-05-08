@@ -1,0 +1,8 @@
+setup.py
+MyApp.egg-info/PKG-INFO
+MyApp.egg-info/SOURCES.txt
+MyApp.egg-info/dependency_links.txt
+MyApp.egg-info/top_level.txt
+myapp/__init__.py
+myapp/python str_count.py
+myapp/sushu.py
